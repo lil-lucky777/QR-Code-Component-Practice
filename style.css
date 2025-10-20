@@ -1,7 +1,7 @@
 body {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; background-color: rgb(255, 252, 240);}
 
-section { display:block; margin-top: 7em; justify-content: center; color:darkslateblue}
+section { display:block; margin-left: 15em; margin-top: 7em; text-align: center; padding: 30em; background-color:darkslateblue}
 
 .qr-border {
     margin-top: 4em;
