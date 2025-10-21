@@ -17,16 +17,19 @@ div .qr-code-img {
     margin-bottom: 3em;
 }
 
-
-div .qr-text h4 {
+div .qr-text {
+    flex-direction: column;
+    justify-content: center;
     text-align: center;
+}
+div .qr-text h4 {
+
     color:black;
     font-size: 17px;
     
 }
 div .qr-text p {
-    text-align: center;
-    flex-direction: row;
+
     margin-top: 2em;
     font-size: 15px;
     color:dimgrey;
